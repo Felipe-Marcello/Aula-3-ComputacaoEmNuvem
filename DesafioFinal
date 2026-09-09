@@ -1,0 +1,17 @@
+Problema 
+Uma universidade possui:
+portal institucional; 
+ambiente do aluno; 
+sistema financeiro; 
+dados pessoais dos estudantes; 
+biblioteca digital; 
+sistema interno dos professores. 
+
+Nuvem publica:
+Portal institucional: O site é público, recebe acessos do mundo inteiro, precisa ser muito rápido e suportar os picos de acessos.
+Ambiente do aluno e sistema interno dos professores: Esses sistemas sofrem picos massivos de tráfego em períodos muito específicos. A nuvem pública permite escalabilidade elástica.
+Biblioteca digital: Armazenar o acervo na nuvem pública reduz o custo de infraestrutura local.
+
+Nuvem Privada:
+Sistema financeiro: Lida com transações bancárias, folhas de pagamento, faturamento e dados fiscais necessita de um nível máximo de conformidade de segurança.
+Dados pessoais dos estudantes: Contém informações como documentos, histórico, dados médicos ou socioeconômicos, mitiga riscos de ataques cibernéticos.
